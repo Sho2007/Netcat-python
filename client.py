@@ -1,6 +1,6 @@
 import socket
 
-server_ip = '192.168.56.1'
+server_ip = '192.168.1.106'
 server_port = 12345 
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
